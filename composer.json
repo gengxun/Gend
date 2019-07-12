@@ -1,0 +1,8 @@
+{
+	"name": "Gend/Cend",
+	"description": "Gend is a smarty PHP micro Framework",
+	"require": {
+		"php": "^7.2",
+		"gend/gend": "1.*"
+	}
+}
