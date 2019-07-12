@@ -1,5 +1,5 @@
 {
-	"name": "Gend/Cend",
+	"name": "gend/gend-framwork",
 	"description": "Gend is a smarty PHP micro Framework",
 	"require": {
 		"php": "^7.2",
